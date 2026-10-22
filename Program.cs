@@ -8,7 +8,9 @@ foreach(string darabol in File.ReadAllLines("baristak.txt")){
 
 
     darabol(1) =int.Parse();
-
+    int
 }
 int alapnapi = 12_000;
 double Jutalekszorzo = 0.04;
+
+
